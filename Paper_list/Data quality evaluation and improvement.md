@@ -36,8 +36,7 @@ https://api.semanticscholar.org/CorpusID:53624431
 networks. In: Future Data and Security Engineering: Third International
 Conference, FDSE 2016, Can Tho City, Vietnam, November 23-25, 2016,
 Proceedings 3, pp. 141–152 (2016). Springer
-- Andrews, J., Morton, E., Griffin, L.: Detecting anomalous data using auto-encoders. International Journal of Machine Learning and Computing 6, 21
-(2016)
+- Andrews, J., Morton, E., Griffin, L.: Detecting anomalous data using auto-encoders. International Journal of Machine Learning and Computing 6, 21 (2016)
 - Chalapathy, R., Chawla, S.: Deep learning for anomaly detection: A survey. arXiv preprint arXiv:1901.03407 (2019)
 - Chandola, V., Banerjee, A., Kumar, V.: Anomaly detection: A survey. ACM Comput. Surv. 41(3) (2009) https://doi.org/10.1145/1541880.1541882
 - Blazquez-Garcıa, A., Conde, A., Mori, U., Lozano, J.A.: A review on outlier/anomaly detection in time series data. ACM Computing Surveys
@@ -47,6 +46,8 @@ A survey. J. Data and Information Quality (2024) https://doi.org/10.1145/3663369
 - Raghavan, K., Papadimitriou, G., Jin, H., Mandal, A., Kiran, M., Balaprakash, P., Deelman, E.: Advancing anomaly detection in computational
 workflows with active learning. arXiv preprint arXiv:2405.06133 (2024)
 - Hu, C., Sun, X., Dai, H., Zhang, H., Liu, H.: Research on log anomaly detection based on sentence-bert. Electronics 12, 3580 (2023) https://doi.org/10.3390/electronics12173580
+- Su, J., Jiang, C., Jin, X., Qiao, Y., Xiao, T., Ma, H., Wei, R., Jing, Z., Xu, J., Lin, J.: Large language models for forecasting and anomaly detection: A systematic literature review. arXiv preprint arXiv:2402.10350 (2024)
+
 
 ## Data augmentation
 - Maharana, K., Mondal, S., Nemade, B.: A review: Data pre-processing and data augmentation techniques. Global Transitions Proceedings (1), 91–99
@@ -76,6 +77,16 @@ A., Anvari, M., Chakravarthy, A.K., et al.: Behavior vision suite: Customizable 
 - Cieslak, M., Govindarajan, U., Garcia, A., Chandrashekar, A., H ̈adrich, T., Mendoza-Drosik, A., Michels, D.L., Pirk, S., Fu, C.-C., Palubicki, W.: Generating diverse agricultural data for vision-based farming applications. arXiv preprint arXiv:2403.18351 (2024)
 - Bucher, M., Vu, T.-H., Cord, M., P ́erez, P.: Zero-shot semantic segmentation. Advances in Neural Information Processing Systems 32 (2019)
 - Seifi, S., Reino, D.O., Despinoy, F., Aljundi, R.: Annotation free semantic segmentation with vision foundation models. arXiv preprint arXiv:2403.09307 (2024)
+- Li, C., Kou, T., Gao, Y., Cao, Y., Sun, W., Zhang, Z., Zhou, Y., Zhang, Z.,
+Zhang, W., Wu, H., et al.: Aigiqa-20k: A large database for ai-generated image quality assessment. arXiv preprint arXiv:2404.03407 (2024)
+- Li, C., Zhang, Z., Wu, H., Sun, W., Min, X., Liu, X., Zhai, G., Lin, W.:
+Agiqa-3k: An open database for ai-generated image quality assessment. IEEE Transactions on Circuits and Systems for Video Technology (2023)
+- Codella, J., Partovian, C., Chang, H.-Y., Chen, C.-H.: Data quality challenges for person-generated health and wellness data. IBM Journal of Research and Development (1), 3–138 (2018)
+- Soudani, H., Petcu, R., Kanoulas, E., Hasibi, F.: A survey on recent advances in conversational data generation. arXiv preprint arXiv:2405.13003 (2024)
+- Diouf, I., Grimes, J., O’Brien, M., Hassanzadeh, H., Truran, D., Ngo, H.,
+Raniga, P., Lawley, M., Bauer, D., Hansen, D., Khanna, S., Reguant, R.:
+An approach for generating realistic Australian synthetic healthcare data.
+Studies in health technology and informatics 310, 820–824 (2024) https://doi.org/10.3233/SHTI231079
 
 ## Electronic health record data quality assessment
 - Muthee, V., Bochner, A.F., Osterman, A., Liku, N., Akhwale, W., Kwach, J., Prachi, M., Wamicwe, J., Odhiambo, J., Onyango, F., Puttkammer,
@@ -92,4 +103,5 @@ media data in big data architecture. IEEE Access 3, 1–1 (2015) https: //doi.or
 - Fadlallah, H., Kilany, R., Dhayne, H., El Haddad, R., Haque, R., Taher, Y.,
 Jaber, A.: Context-aware big data quality assessment: A scoping review.
 Journal of Data and Information Quality (3), 1–33 (2023)
-
+- Singh, J., Liu, F., Xu, H., Ng, B.C., Zhang, W.: Lingml: Linguistic-informed machine learning for enhanced fake news detection. arXiv
+preprint arXiv:2405.04165 (2024)
