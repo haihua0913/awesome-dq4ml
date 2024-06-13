@@ -1,6 +1,9 @@
 > Data quality has a significant impact on the performance, results, and interpretation of ML models.
 
-
+- Guha, S., Khan, F.A., Stoyanovich, J., Schelter, S.: Automated data
+cleaning can hurt fairness in machine learning-based decision making.
+IEEE Transactions on Knowledge and Data Engineering, 1–12 (2024)
+https://doi.org/10.1109/TKDE.2024.3365524
 - Rangineni, S.: An analysis of data quality requirements for machine learning development pipelines frameworks. International Journal of Computer
 Trends and Technology 71, 16–27 (2023) https://doi.org/10.14445/22312803/IJCTT-V71I8P103
 - Budach, L., Feuerpfeil, M., Ihde, N., Nathansen, A., Noack, N., Patzlaff,
@@ -17,3 +20,4 @@ ing Machinery, New York, NY, USA (2021). https://doi.org/10.1145/3411764.3445518
 Garbage in, garbage out? do machine learning application papers in social computing report where human-labeled training data comes from?
 In: Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency. FAT* ’20, pp. 325–336. Association for Computing Machinery, New York, NY, USA (2020). https://doi.org/10.1145/3351095.3372862.
 - Li, L., Goh, T.-T., Jin, D.: How textual quality of online reviews affects classification performance: A case of deep learning sentiment analysis. Neural Computing and Applications (9), 4387–4415 (2020)
+
