@@ -42,6 +42,7 @@ analysis. IEEE Access, 103306–103318 (2023)
 formation Quality (2), 1–39 (2023)
 - Batini, C., Barone, D., Mastrella, M., Maurino, A., Ruffini, C.: A framework and a methodology for data quality assessment and monitoring. In:
 ICIQ, pp. 333–346 (2007). Citeseer
+- Bayram, F., Ahmed, B., Hallin, E., Engman, A.: Dqsops: Data quality scoring operations framework for data-driven applications. (2023). https://doi.org/10.1145/3593434.3593445
 
 ## Dimension and metrics
 - G. Fenza, M. Gallo, V. Loia, F. Orciuoli, and E. Herrera-Viedma, “Dataset quality in machine learning: Consistency measure based on group
