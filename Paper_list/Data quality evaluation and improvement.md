@@ -11,9 +11,9 @@ Access 10, 121900–121923 (2022) https://doi.org/10.1109/ACCESS.2022.3211313
 quality in machine learning: Consistency measure based on group decision making. Applied Soft Computing, 107366 (2021)
 - Rangineni, S.: An analysis of data quality requirements for machine learning development pipelines frameworks. International Journal of Computer
 Trends and Technology 71, 16–27 (2023) https://doi.org/10.14445/22312803/IJCTT-V71I8P103
-- Gupta, N., Mujumdar, S., Patel, H., Masuda, S., Panwar, N., Bandyopadhyay, S., Mehta, S., Guttula, S., Afzal, S., Sharma Mittal, R., Munigala, V.: Data quality for machine learning tasks. In: Proceedings of the
-27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining. KDD ’21, pp. 4040–4041. Association for Computing Machinery, New
-York, NY, USA (2021). https://doi.org/10.1145/3447548.3470817 .
+- Gupta, N., Mujumdar, S., Patel, H., Masuda, S., Panwar, N., Bandyopadhyay, S., Mehta, S., Guttula, S., Afzal, S., Sharma Mittal, R., Munigala, V.: Data quality for machine learning tasks. In: Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining. KDD ’21, pp. 4040–4041. Association for Computing Machinery, New York, NY, USA (2021). https://doi.org/10.1145/3447548.3470817.
+- Chen, H., Chen, J., Ding, J.: Data evaluation and enhancement for quality
+improvement of machine learning. IEEE Transactions on Reliability 70(2), 831–847 (2021) https://doi.org/10.1109/TR.2021.3070863
 
 
 ## Knowledge graph
@@ -40,7 +40,36 @@ Proceedings 3, pp. 141–152 (2016). Springer
 A survey. J. Data and Information Quality (2024) https://doi.org/10.1145/3663369. Just Accepted
 - Raghavan, K., Papadimitriou, G., Jin, H., Mandal, A., Kiran, M., Balaprakash, P., Deelman, E.: Advancing anomaly detection in computational
 workflows with active learning. arXiv preprint arXiv:2405.06133 (2024)
+- Hu, C., Sun, X., Dai, H., Zhang, H., Liu, H.: Research on log anomaly detection based on sentence-bert. Electronics 12, 3580 (2023) https://doi.org/10.3390/electronics12173580
 
+## Data augmentation
+- Maharana, K., Mondal, S., Nemade, B.: A review: Data pre-processing and data augmentation techniques. Global Transitions Proceedings (1), 91–99
+(2022)
+- Liu, R., Wei, J., Liu, F., Si, C., Zhang, Y., Rao, J., Zheng, S., Peng, D., Yang, D., Zhou, D., et al.: Best practices and lessons learned on synthetic data for language models. arXiv preprint arXiv:2404.07503 (2024)
+- Chen, J., Tam, D., Raffel, C., Bansal, M., Yang, D.: An empirical survey of data augmentation for limited data learning in nlp. Transactions of the Association for Computational Linguistics, 191–211 (2023)
+- Yang, Y., Malaviya, C., Fernandez, J., Swayamdipta, S., Bras, R.L., Wang,
+J.-P., Bhagavatula, C., Choi, Y., Downey, D.: Generative data augmentation for commonsense reasoning. arXiv preprint arXiv:2004.11546 (2020)
+- Møller, A.G., Dalsgaard, J.A., Pera, A., Aiello, L.M.: Is a prompt and a few
+samples all you need? using GPT-4 for data augmentation in low-resource classification tasks. arXiv preprint arXiv:2304.13861 (2023)
+- Li, B., Hou, Y., Che, W.: Data augmentation approaches in natural language processing: A survey. AI Open 3, 71–90 (2022) https://doi.org/10.1016/j.aiopen.2022.03.001
+- Dai, H., Liu, Z., Liao, W., Huang, X., Cao, Y., Wu, Z., Zhao, L., Xu, S., Liu, W., Liu, N., et al.: Auggpt: Leveraging chatgpt for text data augmentation. arXiv preprint arXiv:2302.13007 (2023)
+- Wu, L., Zhang, F., Cheng, C., Song, S.: Supervised contrast learning text
+classification model based on data quality augmentation. ACM Trans.
+Asian Low-Resour. Lang. Inf. Process. 23(5) (2024) https://doi.org/10.1145/3653300
+- Li, Y., Ding, K., Wang, J., Lee, K.: Empowering large language models for
+textual data augmentation. arXiv preprint arXiv:2404.17642 (2024)
+- Ding, B., Qin, C., Zhao, R., Luo, T., Li, X., Chen, G., Xia, W., Hu, J., Luu,
+A.T., Joty, S.: Data augmentation using LLMs: Data perspectives, learning paradigms and challenges. arXiv preprint arXiv:2403.02990 (2024)
+- Kang, H.J., Harel-Canada, F., Gulzar, M.A., Peng, V., Kim, M.: Human-
+in-the-loop synthetic text data inspection with provenance tracking. arXiv
+preprint arXiv:2404.18881 (2024)
+- Zhang, T., Peng, B., Bollegala, D.: Improving diversity of commonsense generation by large language models via in-context learning. arXiv preprint arXiv:2404.16807 (2024)
+- Giner-Miguelez, J., G ́omez, A., Cabot, J.: Using large language models to enrich the documentation of datasets for machine learning. arXiv preprint arXiv:2404.15320 (2024)
+- Ge, Y., Tang, Y., Xu, J., Gokmen, C., Li, C., Ai, W., Martinez, B.J., Aydin,
+A., Anvari, M., Chakravarthy, A.K., et al.: Behavior vision suite: Customizable dataset generation via simulation. arXiv preprint arXiv:2405.09546 (2024)
+- Cieslak, M., Govindarajan, U., Garcia, A., Chandrashekar, A., H ̈adrich, T., Mendoza-Drosik, A., Michels, D.L., Pirk, S., Fu, C.-C., Palubicki, W.: Generating diverse agricultural data for vision-based farming applications. arXiv preprint arXiv:2403.18351 (2024)
+- Bucher, M., Vu, T.-H., Cord, M., P ́erez, P.: Zero-shot semantic segmentation. Advances in Neural Information Processing Systems 32 (2019)
+- Seifi, S., Reino, D.O., Despinoy, F., Aljundi, R.: Annotation free semantic segmentation with vision foundation models. arXiv preprint arXiv:2403.09307 (2024)
 
 ## Electronic health record data quality assessment
 - Muthee, V., Bochner, A.F., Osterman, A., Liku, N., Akhwale, W., Kwach, J., Prachi, M., Wamicwe, J., Odhiambo, J., Onyango, F., Puttkammer,
