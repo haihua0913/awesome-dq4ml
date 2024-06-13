@@ -14,6 +14,12 @@ Trends and Technology 71, 16–27 (2023) https://doi.org/10.14445/22312803/IJCTT
 - Gupta, N., Mujumdar, S., Patel, H., Masuda, S., Panwar, N., Bandyopadhyay, S., Mehta, S., Guttula, S., Afzal, S., Sharma Mittal, R., Munigala, V.: Data quality for machine learning tasks. In: Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining. KDD ’21, pp. 4040–4041. Association for Computing Machinery, New York, NY, USA (2021). https://doi.org/10.1145/3447548.3470817.
 - Chen, H., Chen, J., Ding, J.: Data evaluation and enhancement for quality
 improvement of machine learning. IEEE Transactions on Reliability 70(2), 831–847 (2021) https://doi.org/10.1109/TR.2021.3070863
+- Sun, J., Mei, C., Wei, L., Zheng, K., Liu, N., Cui, M., Li, T.: Dial-insight:
+Fine-tuning large language models with high-quality domain-specific data
+preventing capability collapse. arXiv preprint arXiv:2403.09167 (2024)
+42 Lecture Notes in Computer Science: Authors’ Instructions
+- He, Y., Wang, Z., Shen, Z., Sun, G., Dai, Y., Wu, Y., Wang, H., Li, A.:
+Shed: Shapley-based automated dataset refinement for instruction fine-tuning. arXiv preprint arXiv:2405.00705 (2024)
 
 
 ## Knowledge graph
