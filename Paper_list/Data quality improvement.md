@@ -1,0 +1,24 @@
+# Data augmentation
+
+- [Zero-shot semantic segmentation](https://papers.nips.cc/paper/2019/file/353f737d6c29b33d4f8a79bc704cf1b3-Paper.pdf) - Bucher, M., Vu, T.-H., Cord, M., Pérez, P., Advances in Neural Information Processing Systems, 2019
+- [Generative data augmentation for commonsense reasoning](https://arxiv.org/abs/2004.11546) - Yang, Y., Malaviya, C., Fernandez, J., Swayamdipta, S., Bras, R.L., Wang, J.-P., Bhagavatula, C., Choi, Y., Downey, D., arXiv, 2020
+- [Data quality challenges for person-generated health and wellness data](https://doi.org/10.1147/JRD.2018.2886326) - Codella, J., Partovian, C., Chang, H.-Y., Chen, C.-H., IBM Journal of Research and Development, 2018
+- [A review: Data pre-processing and data augmentation techniques](https://doi.org/10.1016/j.gltp.2021.12.005) - Maharana, K., Mondal, S., Nemade, B., Global Transitions Proceedings, 2022
+- [Data augmentation approaches in natural language processing: A survey](https://doi.org/10.1016/j.aiopen.2022.03.001) - Li, B., Hou, Y., Che, W., AI Open, 2022
+- [An empirical survey of data augmentation for limited data learning in nlp](https://doi.org/10.1162/tacl_a_00437) - Chen, J., Tam, D., Raffel, C., Bansal, M., Yang, D., Transactions of the Association for Computational Linguistics, 2023
+- [Agiqa-3k: An open database for ai-generated image quality assessment](https://doi.org/10.1109/TCSVT.2023.3234947) - Li, C., Zhang, Z., Wu, H., Sun, W., Min, X., Liu, X., Zhai, G., Lin, W., IEEE Transactions on Circuits and Systems for Video Technology, 2023
+- [Is a prompt and a few samples all you need? using GPT-4 for data augmentation in low-resource classification tasks](https://arxiv.org/abs/2304.13861) - Møller, A.G., Dalsgaard, J.A., Pera, A., Aiello, L.M., arXiv, 2023
+- [Auggpt: Leveraging chatgpt for text data augmentation](https://arxiv.org/abs/2302.13007) - Dai, H., Liu, Z., Liao, W., Huang, X., Cao, Y., Wu, Z., Zhao, L., Xu, S., Liu, W., Liu, N., et al., arXiv, 2023
+- [Best practices and lessons learned on synthetic data for language models](https://arxiv.org/abs/2404.07503) - Liu, R., Wei, J., Liu, F., Si, C., Zhang, Y., Rao, J., Zheng, S., Peng, D., Yang, D., Zhou, D., et al., arXiv, 2024
+- [Supervised contrast learning text classification model based on data quality augmentation](https://doi.org/10.1145/3653300) - Wu, L., Zhang, F., Cheng, C., Song, S., ACM Transactions on Asian and Low-Resource Language Information Processing, 2024
+- [Empowering large language models for textual data augmentation](https://arxiv.org/abs/2404.17642) - Li, Y., Ding, K., Wang, J., Lee, K., arXiv, 2024
+- [Data augmentation using LLMs: Data perspectives, learning paradigms and challenges](https://arxiv.org/abs/2403.02990) - Ding, B., Qin, C., Zhao, R., Luo, T., Li, X., Chen, G., Xia, W., Hu, J., Luu, A.T., Joty, S., arXiv, 2024
+- [Human-in-the-loop synthetic text data inspection with provenance tracking](https://arxiv.org/abs/2404.18881) - Kang, H.J., Harel-Canada, F., Gulzar, M.A., Peng, V., Kim, M., arXiv, 2024
+- [Improving diversity of commonsense generation by large language models via in-context learning](https://arxiv.org/abs/2404.16807) - Zhang, T., Peng, B., Bollegala, D., arXiv, 2024
+- [Using large language models to enrich the documentation of datasets for machine learning](https://arxiv.org/abs/2404.15320) - Giner-Miguelez, J., Gómez, A., Cabot, J., arXiv, 2024
+- [Behavior vision suite: Customizable dataset generation via simulation](https://arxiv.org/abs/2405.09546) - Ge, Y., Tang, Y., Xu, J., Gokmen, C., Li, C., Ai, W., Martinez, B.J., Aydin, A., Anvari, M., Chakravarthy, A.K., et al., arXiv, 2024
+- [Generating diverse agricultural data for vision-based farming applications](https://arxiv.org/abs/2403.18351) - Cieslak, M., Govindarajan, U., Garcia, A., Chandrashekar, A., Hädrich, T., Mendoza-Drosik, A., Michels, D.L., Pirk, S., Fu, C.-C., Palubicki, W., arXiv, 2024
+- [Annotation free semantic segmentation with vision foundation models](https://arxiv.org/abs/2403.09307) - Seifi, S., Reino, D.O., Despinoy, F., Aljundi, R., arXiv, 2024
+- [Aigiqa-20k: A large database for ai-generated image quality assessment](https://arxiv.org/abs/2404.03407) - Li, C., Kou, T., Gao, Y., Cao, Y., Sun, W., Zhang, Z., Zhou, Y., Zhang, Z., Zhang, W., Wu, H., et al., arXiv, 2024
+- [A survey on recent advances in conversational data generation](https://arxiv.org/abs/2405.13003) - Soudani, H., Petcu, R., Kanoulas, E., Hasibi, F., arXiv, 2024
+- [An approach for generating realistic Australian synthetic healthcare data](https://doi.org/10.3233/SHTI231079) - Diouf, I., Grimes, J., O’Brien, M., Hassanzadeh, H., Truran, D., Ngo, H., Raniga, P., Lawley, M., Bauer, D., Hansen, D., Khanna, S., Reguant, R., Studies in Health Technology and Informatics, 2024
