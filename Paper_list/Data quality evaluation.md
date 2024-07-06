@@ -1,4 +1,4 @@
-# Deep learning and machine learning methods
+# Machine learning methods
 - [Improving data quality through deep learning and statistical models](https://doi.org/10.1007/978-3-319-55395-7_65) - Dai, W., Yoshigoe, K., Parsley, W., Information Technology-New Generations: 14th International Conference on Information Technology, pp. 515–522 (2018). Springer
 - [Machine learning and deep learning models for big data issues](https://doi.org/10.1007/978-3-030-42278-9_2) - Gahi, Y., El Alaoui, I., in Maleh, Y., Shojafar, M., Alazab, M., Baddi, Y. (eds.), Machine Intelligence and Big Data Analytics for Cybersecurity Applications, pp. 29–49. Springer, Cham (2021)
 - [Data quality for machine learning tasks](https://doi.org/10.1145/3447548.3470817) - Gupta, N., Mujumdar, S., Patel, H., Masuda, S., Panwar, N., Bandyopadhyay, S., Mehta, S., Guttula, S., Afzal, S., Sharma Mittal, R., Munigala, V., in Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining. KDD ’21, pp. 4040–4041. Association for Computing Machinery, New York, NY, USA (2021)
