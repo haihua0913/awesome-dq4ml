@@ -18,3 +18,5 @@ Zhou, Y., Tu, F., Sha, K., Ding, J., & Chen, H. (2024). [A Survey on Data Qualit
   - DQ tools in our paper
   - Useful links
   - Papers about DQ tools
+
+- Data quality tutorials
