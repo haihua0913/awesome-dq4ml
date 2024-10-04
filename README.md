@@ -20,3 +20,4 @@ Zhou, Y., Tu, F., Sha, K., Ding, J., & Chen, H. (2024). [A Survey on Data Qualit
   - Papers about DQ tools
 
 - Data quality tutorials
+  - [Data collection and quality challenges in deep learning: a data-centric AI perspective](https://link.springer.com/article/10.1007/s00778-022-00775-9) (VLDB Journal '23)
