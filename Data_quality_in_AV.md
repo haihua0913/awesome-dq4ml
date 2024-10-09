@@ -31,4 +31,14 @@ Alternative names: Driverless Cars, Automated Vehicles, Autonomous Driving, Self
 - Current limitations: the amount and variety of annotated images of urban scenarios are much lower in terms of the total number of labeled pixels, number of classes, and instances
 - SYNTHetic collection of Imagery and Annotations (SYNTHIA): precise pixel-level semantic annotations for 13 classes, i.e., sky, building, road, sidewalk, fence, vegetation, lane-marking, pole, car, traffic signs, pedestrians, cyclists and miscellaneous
 
+5. [C. Cui et al., "A Survey on Multimodal Large Language Models for Autonomous Driving," 2024 IEEE/CVF Winter Conference on Applications of Computer Vision Workshops (WACVW), Waikoloa, HI, USA, 2024, pp. 958-979, doi: 10.1109/WACVW60836.2024.00106.](https://ieeexplore.ieee.org/document/10495592)
+
+6. [Advances in Autonomous Vehicle Testing: The State of the Art and Future Outlook on Driving Datasets, Simulators, and Proving Grounds](https://www.authorea.com/users/817376/articles/1217757-advances-in-autonomous-vehicle-testing-the-state-of-the-art-and-future-outlook-on-driving-datasets-simulators-and-proving-grounds)
+
+7. [S. Li, Y. Fan, Y. Ma and Y. Pan, "Evaluation of Dataset Distribution and Label Quality for Autonomous Driving System," 2021 IEEE 21st International Conference on Software Quality, Reliability and Security Companion (QRS-C), Hainan, China, 2021, pp. 196-200, doi: 10.1109/QRS-C55045.2021.00037.](https://ieeexplore.ieee.org/document/9742177)
+
+8. [Zhang, Q., Wei, Y., Han, Z., Fu, H., Peng, X., Deng, C., ... & Zhang, C. (2024). Multimodal fusion on low-quality data: A comprehensive survey. arXiv preprint arXiv:2404.18947.](https://arxiv.org/abs/2404.18947)
+
+9. [D. Feng et al., "Deep Multi-Modal Object Detection and Semantic Segmentation for Autonomous Driving: Datasets, Methods, and Challenges," in IEEE Transactions on Intelligent Transportation Systems, vol. 22, no. 3, pp. 1341-1360, March 2021, doi: 10.1109/TITS.2020.2972974.](https://ieeexplore.ieee.org/abstract/document/9000872)
+
 
