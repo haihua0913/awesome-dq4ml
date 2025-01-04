@@ -75,6 +75,8 @@ Alternative names: Driverless Cars, Automated Vehicles, Autonomous Driving, Self
 
 - Yu, C., Cai, Y., Zhang, J., Kong, H., Sui, W., & Yang, C. (2024). **VRSO: Visual-centric reconstruction for static object annotation**. *arXiv*. http://arxiv.org/abs/2403.15026
 
+- Wang, Y., Guo, S., Guo, J., Zhang, Y., Zhang, W., Zheng, Q., & Zhang, J. (2024). **Data quality-aware mixed-precision quantization via hybrid reinforcement learning.** IEEE Transactions on Neural Networks and Learning Systems. https://ieeexplore.ieee.org/abstract/document/10566890?casa_token=nQo6Zf9PmeMAAAAA:QHZXPXebndw1AeGkPqnRth5xEP3FEsUrzoFsi2tqPgrJmBrIqfKPI-HJ9aGptFop33mbLCjcYSHdyA
+
 
 ## Redundancy
 
