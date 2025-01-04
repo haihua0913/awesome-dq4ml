@@ -69,7 +69,7 @@ Alternative names: Driverless Cars, Automated Vehicles, Autonomous Driving, Self
 
 - Rao, R., Rao, S., Nouri, E., Dey, D., Celikyilmaz, A., & Dolan, B. (2020). **Quality and relevance metrics for selection of multimodal pretraining data**. In *2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)* (pp. 4109–16). Seattle, WA, USA: IEEE. https://doi.org/10.1109/CVPRW50498.2020.00486
 
-- Schwabe, D., Becker, K., Seyferth, M., Klaß, A., & Schaeffter, T. (2024). **The METRIC-framework for assessing data quality for trustworthy AI in medicine: A systematic review**. *NPJ Digital Medicine, 7*(1), 203. https://doi.org/10.1038/s41746-024-01196-4
+- Pradhan, S. K., Heyn, H. M., & Knauss, E. (2024). **Identifying and managing data quality requirements: a design science study in the field of automated driving**. Software Quality Journal, 32(2), 313-360. https://link.springer.com/article/10.1007/s11219-023-09622-8
 
 - Teh, H. Y., Kempa-Liehr, A. W., & Wang, K. I.-K. (2020). **Sensor data quality: A systematic review**. *Journal of Big Data, 7*(1), 11. https://doi.org/10.1186/s40537-020-0285-1
 
