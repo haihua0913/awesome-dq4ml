@@ -2,7 +2,22 @@
 Useful resources on data quality (DQ) for machine learning (ML) and artificial intelligence (AI). 
 
 # Our paper
-Zhou, Y., Tu, F., Sha, K., Ding, J., & Chen, H. (2024). [A Survey on Data Quality Dimensions and Tools for Machine Learning](https://arxiv.org/abs/2406.19614). arXiv preprint arXiv:2406.19614.
+- [Enhancing Data Quality in Medical Concept Normalization Through Large Language Models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4979696)  
+  Chen, H., Li, R., Ding, J., & Cleveland, A. (2024). SSRN preprint.  
+
+  🔹 Evaluates medical concept normalization performance across varying data quality scenarios and investigates leveraging large language models to enhance data quality.
+  
+- [A Survey on Data Quality Dimensions and Tools for Machine Learning](https://arxiv.org/abs/2406.19614)  
+  Zhou, Y., Tu, F., Sha, K., Ding, J., & Chen, H. (2024). arXiv preprint.
+
+  🔹 Reviews 17 data quality evaluation and improvement tools developed over the past five years, discussing their strengths and limitations, and proposes a roadmap for developing open-source tools to enhance machine learning data quality. 
+
+- [Data Evaluation and Enhancement for Quality Improvement of Machine Learning](https://ieeexplore.ieee.org/document/9417095/)  
+  Chen, H., Chen, J., & Ding, J. (2021). IEEE Transactions on Reliability.
+
+  🔹 Introduces a data quality evaluation framework that includes specific criteria and corresponding evaluation approaches, aiming to improve the quality of datasets used in machine learning systems. 
+
+
 
 # Content
 
