@@ -9,6 +9,11 @@
 - [Dial-insight: Fine-tuning large language models with high-quality domain-specific data preventing capability collapse](https://arxiv.org/abs/2403.09167) - Sun, J., Mei, C., Wei, L., Zheng, K., Liu, N., Cui, M., Li, T., arXiv preprint arXiv:2403.09167 (2024)
 - [Shed: Shapley-based automated dataset refinement for instruction fine-tuning](https://arxiv.org/abs/2405.00705) - He, Y., Wang, Z., Shen, Z., Sun, G., Dai, Y., Wu, Y., Wang, H., Li, A., arXiv preprint arXiv:2405.00705 (2024)
 - [Lingml: Linguistic-informed machine learning for enhanced fake news detection](https://arxiv.org/abs/2405.04165) - Singh, J., Liu, F., Xu, H., Ng, B.C., Zhang, W., arXiv preprint arXiv:2405.04165, 2024
+- [Enhancing Machine Learning Performance through Intelligent Data Quality Assessment: An Unsupervised Data-centric Framework](https://doi.org/10.1016/j.heliyon.2025.e42777)  
+  Rahal, M., Ahmed, B., Szabados, G., Fornstedt, T., Samuelsson, J., Heliyon (2025)
+
+  🔹 Proposes an unsupervised data-centric framework for assessing data quality, aiming to enhance machine learning performance by identifying and mitigating quality-related issues. They implemented it in a real-world use case from the field of analytical chemistry.
+
 
 
 
@@ -43,7 +48,7 @@
 ## Social media
 - [Evaluating the quality of social media data in big data architecture](https://doi.org/10.1109/ACCESS.2015.2490723) - Immonen, A., P ̈a ̈akk ̈onen, P., Ovaska, E., IEEE Access, 2015
 
-## Electronic health record data quality evaluation
+## Electronic health record 
 - [Methods and dimensions of electronic health record data quality assessment: Enabling reuse for clinical research](https://doi.org/10.1136/amiajnl-2012-0014) - Weiskopf, N.G., Weng, C., Journal of the American Medical Informatics Association, 2013
 - [The impact of routine data quality assessments on electronic medical record data quality in Kenya](https://doi.org/10.1371/journal.pone.0195362) - Muthee, V., Bochner, A.F., Osterman, A., Liku, N., Akhwale, W., Kwach, J., Prachi, M., Wamicwe, J., Odhiambo, J., Onyango, F., Puttkammer, N., PloS One, 2018
 - [Automating electronic health record data quality assessment](https://doi.org/10.1007/s10916-022-01901-w) - Ozonze, O., Scott, P.J., Hopgood, A.A., Journal of Medical Systems, 2023
@@ -52,5 +57,9 @@
 # Case Study:
 
 - [Data quality assessment and improvement: A vrije universiteit brussel case study](https://doi.org/10.1016/j.procs.2017.09.006) - Van Den Berghe, S., Van Gaeveren, K., Procedia Computer Science, 2017
+- [Data Quality Assurance Practices in Research Data Repositories—A Systematic Literature Review](https://asistdl.onlinelibrary.wiley.com/doi/abs/10.1002/asi.24948)  
+  Stvilia, B., Pang, Y., Lee, D.J., Gunaydin, F., Journal of the Association for Information Science and Technology (2023)
+
+  🔹 Conducts a systematic review of data quality assurance practices in research data repositories, outlining key evaluation, intervention, and communication strategies.
 
 
