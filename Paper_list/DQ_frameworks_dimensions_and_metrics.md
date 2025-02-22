@@ -37,7 +37,10 @@ based on different use cases and attributes. These serve as a foundation for und
   Rahal, M., Ahmed, B., Szabados, G., Fornstedt, T., Samuelsson, J., Heliyon (2025)
 
   🔹 The authors propose a framework that combines the curation of quality measurements and unsupervised learning to distinguish high- and low-quality data. They implemented it in a real-world use case from the field of analytical chemistry.
+- [FIRE: Flexible Integration of Data Quality Ratings for Effective Pre-Training](https://arxiv.org/pdf/2502.00761)  
+  Xu, L., Zhang, X., Duan, F., Wang, S., Wang, J., Cai, X., arXiv preprint (2025)
 
+  🔹 Proposes a framework that integrates multiple data quality raters to enhance pre-training efficiency in large language models.
 
 ## Dimension and metrics
 
