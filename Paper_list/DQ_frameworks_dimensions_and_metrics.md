@@ -33,6 +33,10 @@ based on different use cases and attributes. These serve as a foundation for und
 - [Dqsops: Data quality scoring operations framework for data-driven applications](https://doi.org/10.1145/3593434.3593445) - Bayram, F., Ahmed, B., Hallin, E., Engman, A., 2023
 - [Quality anomaly detection using predictive techniques: An extensive big data quality framework for reliable data analysis](https://doi.org/10.1109/ACCESS.2023.1003939) - Widad, E., Saida, E., Gahi, Y., IEEE Access, 2023
 - [Lingml: Linguistic-informed machine learning for enhanced fake news detection](https://arxiv.org/abs/2405.04165) - Singh, J., Liu, F., Xu, H., Ng, B.C., Zhang, W., arXiv preprint arXiv:2405.04165, 2024
+- [Enhancing Machine Learning Performance through Intelligent Data Quality Assessment: An Unsupervised Data-centric Framework](https://doi.org/10.1016/j.heliyon.2025.e42777)  
+  Rahal, M., Ahmed, B., Szabados, G., Fornstedt, T., Samuelsson, J., Heliyon (2025)
+
+  🔹 The authors propose a framework that combines the curation of quality measurements and unsupervised learning to distinguish high- and low-quality data. They implemented it in a real-world use case from the field of analytical chemistry.
 
 
 ## Dimension and metrics
