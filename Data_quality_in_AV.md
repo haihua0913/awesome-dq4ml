@@ -61,9 +61,16 @@ Alternative names: Driverless Cars, Automated Vehicles, Autonomous Driving, Self
 
 ## Synthesized datasets
 
-- Tu, J., Ji, W., Zhao, H., Zhang, C., Zimmermann, R., & Qian, H. (2024). **DriveDiTFit: Fine-tuning diffusion transformers for autonomous driving**. *arXiv*. http://arxiv.org/abs/2407.15661
+- [DriveDiTFit: Fine-tuning diffusion transformers for autonomous driving](http://arxiv.org/abs/2407.15661)  
+  Tu, J., Ji, W., Zhao, H., Zhang, C., Zimmermann, R., & Qian, H. (2024). *arXiv preprint*.  
 
-- Yang, Z., Chai, Y., Anguelov, D., Zhou, Y., Sun, P., Erhan, D., Rafferty, S., & Kretzschmar, H. (2020). **SurfelGAN: Synthesizing realistic sensor data for autonomous driving**. *arXiv*. http://arxiv.org/abs/2005.03844
+  🔹 Introduces DriveDiTFit, a fine-tuning framework leveraging diffusion transformers to improve autonomous driving perception and planning.
+
+- [SurfelGAN: Synthesizing realistic sensor data for autonomous driving](http://arxiv.org/abs/2005.03844)  
+  Yang, Z., Chai, Y., Anguelov, D., Zhou, Y., Sun, P., Erhan, D., Rafferty, S., & Kretzschmar, H. (2020). *arXiv preprint*.  
+
+  🔹 Proposes SurfelGAN, a generative model designed to synthesize realistic sensor data for training and validating autonomous driving perception systems.
+
 
 
 # Data Fusion
