@@ -5,4 +5,14 @@
 
 - Bammidi, T. R., Gutta, L. M., Kotagiri, A., Samayamantri, L. S., & krishna Vaddy, R. (2024). The Crucial Role of Data Quality in Automated Decision-Making Systems. International Journal of Management Education for Sustainable Development, 7(7), 1-22. https://www.ijsdcs.com/index.php/IJMESD/article/view/442
 
+- [Deep Multi-Modal Object Detection and Semantic Segmentation for Autonomous Driving: Datasets, Methods, and Challenges]  
+  (2020). *arXiv preprint*.  
+
+ 
+
+- [Advances in Autonomous Vehicle Testing: The State of the Art and Future Outlook on Driving Datasets, Simulators, and Proving Grounds](https://doi.org/10.22541/au.172446843.37817639/v1)  
+  Guo, A., Li, Y., Huang, J., Li, B., Na, X., Lv, C., Chen, L., Li, L., & Wang, F.-Y. (2024). *arXiv preprint*.  
+
+
+
 
