@@ -48,10 +48,7 @@
 ## Social media
 - [Evaluating the quality of social media data in big data architecture](https://doi.org/10.1109/ACCESS.2015.2490723) - Immonen, A., P ̈a ̈akk ̈onen, P., Ovaska, E., IEEE Access, 2015
 
-## Electronic health record 
-- [Methods and dimensions of electronic health record data quality assessment: Enabling reuse for clinical research](https://doi.org/10.1136/amiajnl-2012-0014) - Weiskopf, N.G., Weng, C., Journal of the American Medical Informatics Association, 2013
-- [The impact of routine data quality assessments on electronic medical record data quality in Kenya](https://doi.org/10.1371/journal.pone.0195362) - Muthee, V., Bochner, A.F., Osterman, A., Liku, N., Akhwale, W., Kwach, J., Prachi, M., Wamicwe, J., Odhiambo, J., Onyango, F., Puttkammer, N., PloS One, 2018
-- [Automating electronic health record data quality assessment](https://doi.org/10.1007/s10916-022-01901-w) - Ozonze, O., Scott, P.J., Hopgood, A.A., Journal of Medical Systems, 2023
+
 
 
 # Case Study:
