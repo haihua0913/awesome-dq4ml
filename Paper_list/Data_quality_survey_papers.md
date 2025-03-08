@@ -5,4 +5,4 @@
 
 - Bammidi, T. R., Gutta, L. M., Kotagiri, A., Samayamantri, L. S., & krishna Vaddy, R. (2024). The Crucial Role of Data Quality in Automated Decision-Making Systems. International Journal of Management Education for Sustainable Development, 7(7), 1-22. https://www.ijsdcs.com/index.php/IJMESD/article/view/442
 
-# Survey papers
+
