@@ -19,5 +19,42 @@
 - [Do llms understand visual anomalies? uncovering llm capabilities in zero-shot anomaly detection](https://arxiv.org/abs/2404.09654). Zhu, J., Cai, S., Deng, F., Wu, J., arXiv preprint (2024)
 - [Imagereward: Learning and evaluating human preferences for text-to-image generation](https://papers.nips.cc/paper/2024/file/2e90ed12c4e40b6421e20e55db94d36d-Paper.pdf). Xu, J., Liu, X., Wu, Y., Tong, Y., Li, Q., Ding, M., Tang, J., Dong, Y., Advances in Neural Information Processing Systems (2024)
 - [mplug-owl2: Revolutionizing multi-modal large language model with modality collaboration](https://arxiv.org/abs/2311.04257). Ye, Q., Xu, H., Ye, J., Yan, M., Liu, H., Qian, Q., Zhang, J., Huang, F., Zhou, J., arXiv preprint (2023)
+- [DeepInteraction++: Multi-Modality Interaction for Autonomous Driving](http://arxiv.org/abs/2408.05075)  
+  Yang, Z., Song, N., Li, W., Zhu, X., Zhang, L., & Torr, P. H. S. (2024). *arXiv preprint*.  
+
+  
+
+- [Multimodal Fusion on Low-Quality Data: A Comprehensive Survey](http://arxiv.org/abs/2404.18947)  
+  Zhang, Q., Wei, Y., Han, Z., Fu, H., Peng, X., Deng, C., Hu, Q., Xu, C., Wen, J., Hu, D., & Zhang, C. (2024). *arXiv preprint*.  
+
+
+- [Deep Multimodal Data Fusion](https://dl.acm.org/doi/10.1145/3649447)  
+  Zhao, F., Zhang, C., & Geng, B. (2024). *ACM Computing Surveys, 56*(9), 1–36. https://doi.org/10.1145/3649447  
+
+
+
+- [MST-GAT: A Multimodal Spatial-Temporal Graph Attention Network for Time Series Anomaly Detection](http://arxiv.org/abs/2310.11169)  
+  Ding, C., Sun, S., & Zhao, J. (2023). *Information Fusion, 89*, 527–536. https://doi.org/10.1016/j.inffus.2022.08.011  
+
+
+
+- [Object Detection in Adverse Weather for Autonomous Vehicles Based on Sensor Fusion and Incremental Learning](https://ieeexplore.ieee.org/document/10715515/)  
+  Su, H., Gao, H., Wang, X., Fang, X., Liu, Q., Huang, G., Li, X., & Cao, Q. (2024). *IEEE Transactions on Instrumentation and Measurement, 1–1.* https://doi.org/10.1109/TIM.2024.3472860  
+
+
+
+- [Multi-Modal 3D Object Detection in Autonomous Driving: A Survey and Taxonomy](https://ieeexplore.ieee.org/document/10093116/)  
+  Wang, L., Zhang, X., Song, Z., Bi, J., Zhang, G., Wei, H., Tang, L., Yang, L., Li, J., Jia, C., & Zhao, L. (2023). *IEEE Transactions on Intelligent Vehicles, 8*(7), 3781–3798. https://doi.org/10.1109/TIV.2023.3264658  
+
+
+
+- [Eliminating Cross-Modal Conflicts in BEV Space for LiDAR-Camera 3D Object Detection](http://arxiv.org/abs/2403.07372)  
+  Fu, J., Gao, C., Wang, Z., Yang, L., Wang, X., Mu, B., & Liu, S. (2024). *arXiv preprint*.  
+
+
+
+- [Explore the LiDAR-Camera Dynamic Adjustment Fusion for 3D Object Detection](http://arxiv.org/abs/2407.15334)  
+  Yang, Y., Gao, X., Wang, T., Hao, X., Shi, Y., Tan, X., Ye, X., & Wang, J. (2024). *arXiv preprint*.  
+
 
 
