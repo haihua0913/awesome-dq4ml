@@ -49,7 +49,13 @@
 
 
 - [Eliminating Cross-Modal Conflicts in BEV Space for LiDAR-Camera 3D Object Detection](http://arxiv.org/abs/2403.07372)  
-  Fu, J., Gao, C., Wang, Z., Yang, L., Wang, X., Mu, B., & Liu, S. (2024). *arXiv preprint*.  
+  Fu, J., Gao, C., Wang, Z., Yang, L., Wang, X., Mu, B., & Liu, S. (2024). *arXiv preprint*.
+
+ - [Quality Assessment of Image Dataset for Autonomous Driving](https://ieeexplore.ieee.org/document/10355734/)  
+  Li, X., Zhang, Y., Shi, Y., Zhu, H., Hu, J., & Peng, L. (2023). *In 2023 IEEE International Conference on Imaging Systems and Techniques (IST) (pp. 1–6). IEEE.* https://doi.org/10.1109/IST59124.2023.10355734  
+
+  🔹 Proposes a framework for evaluating the quality of image datasets used in autonomous driving, considering factors such as annotation accuracy and data diversity.
+
 
 
 
