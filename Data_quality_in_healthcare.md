@@ -11,6 +11,11 @@
 
   🔹 Investigates how regular data quality assessments improve electronic medical record (EMR) data quality in Kenya.
 
+- [Development of a framework to assess the quality of data sources in healthcare settings](https://academic.oup.com/jamia/article-abstract/29/5/944/6534111)
+  Hooshafza, S., Mc Quaid, L., Stephens, G., Flynn, R., & O’Connor, L. (2022). Development of a framework to assess the quality of data sources in healthcare settings. Journal of the American Medical Informatics Association, 29(5), 944-952.
+
+  🔹 First, a systematic review was performed and a thematic analysis of included literature conducted to identify items relating to the quality of healthcare data sources. Second, expert advisory group meetings were held to explore experts’ perception of the results of the review and identify gaps in the findings. Third, a framework was developed based on the findings.
+
 - [Automating electronic health record data quality assessment](https://doi.org/10.1007/s10916-022-01901-w)  
   Ozonze, O., Scott, P. J., & Hopgood, A. A. (2023). *Journal of Medical Systems*.  
 
@@ -25,5 +30,20 @@
   Syed, R., Eden, R., Makasi, T., Chukwudi, I., Mamudu, A., Kamalpour, M., ... & Myers, T. (2023). *Journal of Medical Internet Research, 25*, e42615.  
 
   🔹 Conducts a systematic review of digital health data quality challenges, highlighting common issues and potential solutions.
+
+- [Data quality in health research: integrative literature review] (https://www.jmir.org/2023/1/e41446/)
+  Bernardi, F. A., Alves, D., Crepaldi, N., Yamada, D. B., Lima, V. C., & Rijo, R. (2023). Data quality in health research: integrative literature review. Journal of Medical Internet Research, 25, e41446.
+
+  🔹 Identify and evaluate digital health technology interventions designed to support the conducting of health research based on data quality.
+
+- [Harnessing the power of synthetic data in healthcare: innovation, application, and privacy](https://www.nature.com/articles/s41746-023-00927-3)
+  Giuffrè, M., & Shung, D. L. (2023). Harnessing the power of synthetic data in healthcare: innovation, application, and privacy. NPJ digital medicine, 6(1), 186.
+
+  🔹 Explores the potential benefits and limitations of synthetic data in the healthcare analytics context.
+
+- [Multimodal missing data in healthcare: A comprehensive review and future directions](https://doi.org/10.1016/j.cosrev.2024.100720)
+  Le, L. P., Nguyen, T., Riegler, M. A., Halvorsen, P., & Nguyen, B. T. (2025). Multimodal missing data in healthcare: A comprehensive review and future directions. Computer Science Review, 56, 100720.
+
+  🔹 This survey paper comprehensively reviews recent works on handling multimodal missing data in healthcare.
 
 
